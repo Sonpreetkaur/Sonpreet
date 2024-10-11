@@ -1,0 +1,15 @@
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\bin\Debug\net8.0\Numbers-Sonpreetkaur.exe
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\bin\Debug\net8.0\Numbers-Sonpreetkaur.deps.json
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\bin\Debug\net8.0\Numbers-Sonpreetkaur.runtimeconfig.json
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\bin\Debug\net8.0\Numbers-Sonpreetkaur.dll
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\bin\Debug\net8.0\Numbers-Sonpreetkaur.pdb
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.AssemblyInfoInputs.cache
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.AssemblyInfo.cs
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.csproj.CoreCompileInputs.cache
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.sourcelink.json
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.dll
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\refint\Numbers-Sonpreetkaur.dll
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.pdb
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\Numbers-Sonpreetkaur.genruntimeconfig.cache
+C:\Users\sonp0\OneDrive\Documents\Numbers-Sonpreetkaur\obj\Debug\net8.0\ref\Numbers-Sonpreetkaur.dll
